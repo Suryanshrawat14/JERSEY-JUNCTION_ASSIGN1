@@ -30,7 +30,7 @@ Jersey Junction is an online platform dedicated to providing sports enthusiasts 
 
 ## Getting Started
 
-To start exploring our collection and purchasing your favorite jerseys, simply visit our website [Jersey Junction](https://www.jerseyjunction.com).
+To start exploring our collection and purchasing your favorite jerseys, simply visit our website [Jersey Junction](https://suryanshrawat14.github.io/JERSEY-JUNCTION_ASSIGN1/).
 
 ## Contributions
 
